@@ -1,0 +1,89 @@
+{
+    "max_length_command": 32000,
+    "pixel_size": 16,
+    "write_to_file": true,
+    "image_resize": [300, 120],
+    "file_path": "assets/image.png",
+    "X": 0,
+    "Y": 0,
+    "Z": 0,
+    "disable_window": true,
+    "colors": {
+        "minecraft:red_concrete": [
+            255,
+            0,
+            0
+        ],
+        "minecraft:white_concrete": [
+            255,
+            255,
+            255
+        ],
+        "minecraft:light_gray_concrete": [
+            211,
+            211,
+            211
+        ],
+        "minecraft:gray_concrete": [
+            128,
+            128,
+            128
+        ],
+        "minecraft:black_concrete": [
+            0,
+            0,
+            0
+        ],
+        "minecraft:brown_concrete": [
+            165,
+            42,
+            42
+        ],
+        "minecraft:orange_concrete": [
+            255,
+            165,
+            0
+        ],
+        "minecraft:yellow_concrete": [
+            255,
+            255,
+            0
+        ],
+        "minecraft:lime_concrete": [
+            50,
+            205,
+            50
+        ],
+        "minecraft:green_concrete": [
+            0,
+            100,
+            0
+        ],
+        "minecraft:cyan_concrete": [
+            64,
+            224,
+            208
+        ],
+        "minecraft:light_blue_concrete": [
+            0,
+            191,
+            255
+        ],
+        "minecraft:blue_concrete": [
+            0,
+            0,
+            255
+        ],
+        "minecraft:purple_concrete": [
+            128,
+            0,
+            128
+        ],
+        "minecraft:magenta_concrete": [
+            128,
+            0,
+            128
+        ],
+        "minecraft:pink_concrete": "#ffc0cb"
+    }
+}
